@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Another part of my hobby is a Game Devaloper, i used to learn making game on Unity by a tutorial on Youtube
 
-https://github-readme-stats.vercel.app/api?username=UnFameeee&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=UnFameeee&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
