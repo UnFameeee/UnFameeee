@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to become a Backend Developer and further more is a Fullstack Developer
 - 📫 How to reach me: quocthang036@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Another part of my hobby is a Game Devaloper, i used to learn making game on Unity by a tutorial on Youtube
+- ⚡ Fun fact: Another part of my hobby is a Game Developer, i used to learn making game on Unity by a tutorial on Youtube
 
 ---
 
