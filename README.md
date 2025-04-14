@@ -38,11 +38,11 @@
 ---
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnFameeee&hide=html,css,shell,dockerfile,procfile&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UnFameeee&show_icons=true&theme=react&icon_color=00FF00&title_color=61dafb&border_color=61dafb&hide_border=true"/>
 
 <!-- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnFameeee&hide=html,css,shell,dockerfile,procfile&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=UnFameeee&show_icons=true&theme=react&icon_color=00FF00&title_color=61dafb&border_color=61dafb&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnFameeee&theme=radical">
 -->
