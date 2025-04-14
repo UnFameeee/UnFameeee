@@ -6,7 +6,7 @@
 ### Hi there 👋, hope u have a beautiful day 🌤️
 - 🔭 I’m currently working at Software Company
 - ✨ I’m in the role of Software Engineer
-- 🌱 I’ve achieved a GPA of 8.43 out of 10
+- 🌱 I’ve achieved a GPA of 8.46 out of 10
 - 📫 How to reach me: thangnpq29@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: As a part-time job, I participate in the stock market, because I'm Vietnamese so it is Vietnam Stock Market (VNINDEX) if you curious about it 
@@ -43,4 +43,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnFameeee&hide=html,css,shell,dockerfile,procfile&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
 
+<!-- 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnFameeee&theme=radical">
+-->
